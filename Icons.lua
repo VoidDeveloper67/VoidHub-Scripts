@@ -1,8 +1,3 @@
---[[
-    NEMESIS UI Library - Icons Module
-    Contains all Roblox asset IDs for UI icons
-]]
-
 return {
     -- Navigation & UI
     menu = 10734887784,
