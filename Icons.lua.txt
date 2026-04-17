@@ -1,0 +1,130 @@
+--[[
+    NEMESIS UI Library - Icons Module
+    Contains all Roblox asset IDs for UI icons
+]]
+
+return {
+    -- Navigation & UI
+    menu = 10734887784,
+    settings = 10734950309,
+    search = 10734943674,
+    home = 10723407389,
+    user = 10747373176,
+    users = 10747373426,
+    logout = 10723434906,
+    login = 10723434830,
+    
+    -- Actions
+    check = 10709790644,
+    checkcircle = 10709790387,
+    checksquare = 10709790537,
+    x = 10747384394,
+    xcircle = 10747383819,
+    plus = 10734924532,
+    pluscircle = 10734923868,
+    minus = 10734896206,
+    minuscircle = 10734895856,
+    edit = 10734883598,
+    edit2 = 10723344885,
+    trash = 10747362393,
+    trash2 = 10747362241,
+    copy = 10709812159,
+    download = 10723344270,
+    upload = 10747366434,
+    
+    -- Arrows
+    arrowup = 10709768939,
+    arrowdown = 10709767827,
+    arrowleft = 10709768114,
+    arrowright = 10709768347,
+    chevronup = 10709791523,
+    chevrondown = 10709790948,
+    chevronleft = 10709791281,
+    chevronright = 10709791437,
+    chevronsup = 10709797622,
+    chevronsdown = 10709796864,
+    chevronsleft = 10709797151,
+    chevronsright = 10709797382,
+    
+    -- Media
+    play = 10734923549,
+    playcircle = 10734923214,
+    pause = 10734919336,
+    pausecircle = 10735024209,
+    stopcircle = 10734972621,
+    skipback = 10734961526,
+    skipforward = 10734961809,
+    rewind = 10734934347,
+    fastforward = 10723354521,
+    volume = 10747376008,
+    volumex = 10747375880,
+    mic = 10734888864,
+    micoff = 10734888646,
+    video = 10747374938,
+    videooff = 10747374721,
+    image = 10723415040,
+    
+    -- Objects
+    lock = 10723434711,
+    unlock = 10747366027,
+    key = 10723416652,
+    mail = 10734885430,
+    bell = 10709775704,
+    belloff = 10709775320,
+    calendar = 10709789505,
+    clock = 10709805144,
+    star = 10734966248,
+    heart = 10723406885,
+    flag = 10723375890,
+    bookmark = 10709782154,
+    tag = 10734976528,
+    
+    -- Files & Folders
+    file = 10723374641,
+    filetext = 10723367380,
+    folder = 10723387563,
+    folderopen = 10723386277,
+    
+    -- Tech
+    wifi = 10747382504,
+    wifioff = 10747382268,
+    bluetooth = 10709776655,
+    battery = 10709774640,
+    batteryfull = 10709774206,
+    batterycharging = 10709774068,
+    cpu = 10709813383,
+    monitor = 10734896881,
+    smartphone = 10734963940,
+    laptop = 10723423881,
+    
+    -- Gaming
+    gamepad = 10723395457,
+    gamepad2 = 10723395215,
+    target = 10734977012,
+    crosshair = 10709818534,
+    zap = 10709790202,
+    flame = 10723376114,
+    skull = 10734962068,
+    ghost = 10723396107,
+    
+    -- Misc
+    activity = 10709752035,
+    alertcircle = 10709752996,
+    alerttriangle = 10709753149,
+    info = 10723415903,
+    helpcircle = 10723406988,
+    eye = 10723346959,
+    eyeoff = 10723346871,
+    sun = 10734974297,
+    moon = 10734897102,
+    cloud = 10709806740,
+    
+    -- Lists
+    list = 10723433811,
+    grid = 10723404936,
+    layout = 10723425376,
+    columns = 10709811261,
+    
+    -- Custom NEMESIS Logo (fallback to similar icon)
+    nemesis = 10709752035,
+}
